@@ -9,7 +9,7 @@ Feel free to **contribute**, too — even a single upload might make a big diffe
 
 📣 *Let your classmates know. Help your juniors. Be part of something impactful.*
 
-> 📌 **Want to contribute?** Please follow our [Contribution Guide](./CONTRIBUTING.md) to maintain proper structure and formatting.
+> 📌 **Want to contribute?** Please follow our [Contribution Guide](https://github.com/minuwu/RMSTU?tab=contributing-ov-file) to maintain proper structure and formatting.
 
 Together, we make studying a bit easier. 💙
 
