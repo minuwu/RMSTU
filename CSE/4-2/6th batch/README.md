@@ -7,3 +7,6 @@
 | CSE 4205    | Information Security                     |   Dhonita Tripura|
 | CSE 5210    | Machine Learning                         | Mithun Dutta     |
 | CSE 5211    | Machine Learning Lab                     | Md. Mynoddin     |
+
+
+[Combined Result](https://g.co/gemini/share/831e8bd37469)
